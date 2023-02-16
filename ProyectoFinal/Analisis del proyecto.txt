@@ -1,0 +1,39 @@
+                      //Analisis de los Requerimientos del Programa//
+
+
+Crear un Programa que pueda realizar las cotizaciones de forma automatica y eficaz, ya que la empresa TK-U tiene una demanda
+alta de Miembros solicitando la informacion, el incoveniente esque esta informacion se esta haciendo de forma manual no automatica haciendo que muchos miembros no tengan un servicio satisfactorio. 
+el programa realizara tareas de forma automatica ofreciendo que el cliente tenga una mejor
+experiencia de servicio y se le puedan brindar las respuestas en base a sus dudas del seguro.
+  
+dependiendo del tipo de cliente,
+y poder realizar los calculos segun: 
+A. la edad
+B. Estado Civil
+C. Cantidad de hijos o hijas.
+
+Agregandole los cargos basados en la informacion del Miembro
+
+Edad 18 = 0.1 // 10%
+Edad 25 = 0.2 // 20%
+Edad 50 = 0.3 // 30%
+
+casado_18 = 0.1 // 10%
+casado_25 = 0.2 // 20%
+casado_50 = 0.3 // 30%
+
+
+
+                            //Algoritmo//
+
+1 Variables utiles
+2 Precio base de la cotización, en quetzales, lo puede cambiar
+3 Mensajes de alerta para ingresar datos
+4 Valores de los recargos
+5 Recargo
+6 Precio final
+7 Sumamos todos los recargos que hemos obtenido
+8 Calculamos el recargo en base a la cantidad de hijos
+9 Sumamos todos los recargos que hemos obtenido
+   
+
